@@ -2,16 +2,13 @@
 layout: about
 title: Homepage
 permalink: /
-subtitle: >
-  <p>Ph.D. Student</p>
-  <p>Shanghai Jiao Tong University</p>
-  <p><a href='mailto:nhaorand@sjtu.edu.cn'>Email</a>|<a href='https://scholar.google.com/citations?user=KHqnYgQAAAAJ'>Google Scholar</a>|<a href='https://github.com/nhaorand/'>GitHub</a>|</p>
+subtitle: <a href='mailto:nhaorand@sjtu.edu.cn'>Email</a>|<a href='https://scholar.google.com/citations?user=KHqnYgQAAAAJ'>Google Scholar</a>|<a href='https://github.com/nhaorand/'>GitHub</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
