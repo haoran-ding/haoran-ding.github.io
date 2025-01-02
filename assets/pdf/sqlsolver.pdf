@@ -64,8 +64,13 @@
       </rdf:Description>
       <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
          <xmp:CreateDate>2023-10-18T13:01:58Z</xmp:CreateDate>
+<<<<<<< HEAD
+         <xmp:ModifyDate>2025-01-01T23:10:30-08:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2025-01-01T23:10:30-08:00</xmp:MetadataDate>
+=======
          <xmp:ModifyDate>2025-01-01T06:15:21-08:00</xmp:ModifyDate>
          <xmp:MetadataDate>2025-01-01T06:15:21-08:00</xmp:MetadataDate>
+>>>>>>> dc0b873781f6778fc120dd2894b08d5d995f2252
          <xmp:CreatorTool>LaTeX with acmart 2023/06/11 v1.90a Typesetting articles for the Association for Computing Machinery and hyperref 2022-06-13 v7.00r Hypertext links for LaTeX</xmp:CreatorTool>
       </rdf:Description>
       <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
@@ -3193,7 +3198,11 @@ Eh¹YéÈiãf¹;Æ‹¢åfA]Ÿñº )&¶|¬ï^~ÿâéƒ¿®ß¯>¬ùVbÈø =$/á %Oz78’x×­?ÓÇà†R	‘aÚşV
 endstream
 endobj
 739 0 obj
+<<<<<<< HEAD
+<</Keywords(SQL query equivalence; SQL solver; linear integer arithmetic; LIA; linear integer arithmetic with stars; LIA*)/Creator(LaTeX with acmart 2023/06/11 v1.90a Typesetting articles for the Association for Computing Machinery and hyperref 2022-06-13 v7.00r Hypertext links for LaTeX)/ModDate(D:20250101231030-08'00')/Trapped/False/CreationDate(D:20231018130158Z)/Producer(pdfTeX, Version 3.141592653-2.6-1.40.24 \(TeX Live 2022\) kpathsea version 6.3.4; modified using iText 4.2.0 by 1T3XT)/Subject(Proc. ACM Manag. Data 2023.1:1-26)/PDFVersion(1.5)/PTEX.Fullbanner(This is pdfTeX, Version 3.141592653-2.6-1.40.24 \(TeX Live 2022\) kpathsea version 6.3.4)/Author(Haoran Ding)/Title(Proving Query Equivalence Using Linear Integer Arithmetic)>>
+=======
 <</Keywords(SQL query equivalence; SQL solver; linear integer arithmetic; LIA; linear integer arithmetic with stars; LIA*)/Creator(LaTeX with acmart 2023/06/11 v1.90a Typesetting articles for the Association for Computing Machinery and hyperref 2022-06-13 v7.00r Hypertext links for LaTeX)/ModDate(D:20250101061521-08'00')/Trapped/False/CreationDate(D:20231018130158Z)/Producer(pdfTeX, Version 3.141592653-2.6-1.40.24 \(TeX Live 2022\) kpathsea version 6.3.4; modified using iText 4.2.0 by 1T3XT)/Subject(Proc. ACM Manag. Data 2023.1:1-26)/PDFVersion(1.5)/PTEX.Fullbanner(This is pdfTeX, Version 3.141592653-2.6-1.40.24 \(TeX Live 2022\) kpathsea version 6.3.4)/Author(Haoran Ding)/Title(Proving Query Equivalence Using Linear Integer Arithmetic)>>
+>>>>>>> dc0b873781f6778fc120dd2894b08d5d995f2252
 endobj
 689 0 obj
 <</Filter/FlateDecode/Type/ObjStm/Length 1099/First 479/N 56>>stream
@@ -3210,7 +3219,11 @@ j.&(oÍ+óë¶o‡,Y‹KKN%m”Dõ³¨›'¬öP9û]Ş^=V}C9S²>è’-Šm&w’ğÇÏÀvàé=VËş_ö¾;
 endstream
 endobj
 740 0 obj
+<<<<<<< HEAD
+<</Info 739 0 R/Filter/FlateDecode/Type/XRef/W[1 3 2]/Index[0 741]/ID [<706d06b7627783830a006c6da5954f66><f5298b200bcbf75e03304782c22b928d>]/Root 612 0 R/Length 1527/Size 741>>stream
+=======
 <</Info 739 0 R/Filter/FlateDecode/Type/XRef/W[1 3 2]/Index[0 741]/ID [<9ca50b94da5a567e0fd029404eeca386><7f3aaaec763501646ba839c285a2d873>]/Root 612 0 R/Length 1527/Size 741>>stream
+>>>>>>> dc0b873781f6778fc120dd2894b08d5d995f2252
 xœ-ÖW°UÕ à½Î.—^/åÒ{ï½wDéâ¥#JGz‘*r)*HSŠÒ;ˆHÆ”ÉŒIf2y	1>8gÌ$3/	¹ûÛû<|óÏ^åü{µşu¢(Š^¼QT6Š2Q”E!kwïB£	ÇÓ'ÍXÕ™Ç¬ÉZ¬Í:¬Ëz¬ÏlÈFlÌ&lš‰Â³h³8„hn&ıövlÎlÉVlÍ6lËLˆVŸOÇvg{v`GvbgvaWvcVˆ
 ş”Îğ{°'{±7û°/û±?p q0‹„èøªtæ¡Â—CtyX¼æ7;¦­ECt§_Oàp¾ÊÉQÍ1ËqÏ×¬í{âb!úÍÓtæ©œÈ×9‰o0Ÿ“9…Ù!z:8;›Ó838“³ø&‹‡èY¯tÔ;|‹osçrçsr3'„r?¥³­å.å2.ç
 ®ä*®æ–¡éé<ø.×q=K†ĞcQÚ'Y½ÜÄÍVuKÃşvaôŞ´g©ÆíHã¹•Û¸p¸“»¸›{ø!?béæTIg>Ä½ÜÇO¸ŸxeBØ0$uœ‡ù)?ãå1–aÏké¨Óüœ_ğOò¿d¹NÌNGå–áv¥ôù9~eõŞWá·ÿN[¯ò</ğ"/ñ2¯„ğ·µñšÿôc:ªb?Jãoxƒ7y‹·y‡_ó.+…ğ|}:ö!ïñ[ŞçV™œ#qÏ•ôä¿ãc>Ñšô	Ì0‹EX”Å˜ÍâÌa‰É›æ“2µ‹¥³5a–e9–gVd%Vf.«°*«±:óXƒ5Y‹µY‡uYõÙ€ÙˆI%¯2m‡¤ÙvdS6cs¶`K¶bk¶a[¶c{v°O’T5dîJçïÃNìÌ.ìÊnìÎìÉ^ì2#–îŸÌ¨ç±K¸bkìá¼Ø#=b=ˆ½ß‰™Ëbşgì/Ûcûì×Øçûcÿ×9¾=CÿØ¬'±¹½b«=­¹>¶ncù?‹OY¡Çy†7äö²øğ*ÏkíÇW8œµ~Îo<Ã‘Ï‰L*ü0&3äs*g0©Ø[ø¾'³™Ték¼²N¤¿Â\–biöå öç`¾ÄA"Û¯ÄC9Œ#øªÖ¯Å£9Šã8–˜ÜkßŠßà$Nád­'ÄÓ9³8“oëó…ø-ñ—âyœÏ\ÈE\ÌwôŸÀ‰|“øóÙšmØ–íØÉ/ÊbÌfqæ°„oüœI¶É{ä)&™¯ä*®æ®å»\Â¥\Æå\ÁOùğ(ñ8?á~àAâaîá‡üˆs/÷ñî`wrwó=na²'·r·s×s7r“›:éùDœœÁÀ³˜Ôçû|À‡|Äïø˜w˜ìÒ»LNß=&{ò¯39İ7y‹·yy‰—y…Wyšgx–ÉÙ9Çó!çÙ˜ô’ÑÍØœ-Ø’­XŸØØ˜MX“µX›uX—õX…UYÕ™Ç,Ï
