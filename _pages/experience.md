@@ -4,4 +4,4 @@ title: experience
 permalink: /experience/
 ---
 
-{% include experience.liquid %}
+{% include news.liquid %}
