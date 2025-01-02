@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Give a talk at [Database Group](https://db.cs.washington.edu/), University of Washington (Hosted by [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/))
+Give a talk at [Database Group](https://db.cs.washington.edu/), University of Washington (Hosted by [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/)).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Give a talk at Carnegie Mellon University (Hosted by [Prof. Limin Jia](https://www.andrew.cmu.edu/user/liminjia/))
+Give a talk at Carnegie Mellon University (Hosted by [Prof. Limin Jia](https://www.andrew.cmu.edu/user/liminjia/)).
