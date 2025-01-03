@@ -61,6 +61,18 @@ layout: default
     </h2>
     {% include experience.liquid %}
 
+    <!-- Service -->
+    <h2>
+      <a class="font-weight-bold" style="color: inherit">Service</a>
+    </h2>
+    {% include service.liquid %}
+
+    <!-- Awards -->
+    <h2>
+      <a class="font-weight-bold" style="color: inherit">Awards and Grants</a>
+    </h2>
+    {% include awards.liquid %}
+
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
