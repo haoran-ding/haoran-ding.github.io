@@ -67,17 +67,23 @@ layout: default
     </h2>
     {% include service.liquid %}
 
-    <!-- Awards -->
-    <h2>
-      <a class="font-weight-bold" style="color: inherit">Awards and Grants</a>
-    </h2>
-    {% include awards.liquid %}
-
     <!-- Teaching -->
     <h2>
       <a class="font-weight-bold" style="color: inherit">Teaching Assistant</a>
     </h2>
     {% include teaching.liquid %}
+
+    <!-- Mentoring -->
+    <h2>
+      <a class="font-weight-bold" style="color: inherit">Mentoring</a>
+    </h2>
+    {% include mentoring.liquid %}
+
+    <!-- Awards -->
+    <h2>
+      <a class="font-weight-bold" style="color: inherit">Honors and Awards</a>
+    </h2>
+    {% include awards.liquid %}
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
