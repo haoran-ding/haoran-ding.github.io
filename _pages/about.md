@@ -2,7 +2,7 @@
 layout: about
 title: Homepage
 permalink: /
-subtitle: <a href='mailto:nhaorand@sjtu.edu.cn'>Email</a> | <a href='https://scholar.google.com/citations?user=KHqnYgQAAAAJ'>Google Scholar</a> | <a href='https://github.com/nhaorand/'>GitHub</a> | <href="assets/pdf/haoran_ding_cv.pdf">CV</a>
+subtitle: <a href='mailto:nhaorand@sjtu.edu.cn'>Email</a> | <a href='https://scholar.google.com/citations?user=KHqnYgQAAAAJ'>Google Scholar</a> | <a href='https://github.com/nhaorand/'>GitHub</a> | <a href="assets/pdf/haoran_ding_cv.pdf">CV</a>
 
 profile:
   align: right
