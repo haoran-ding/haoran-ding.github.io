@@ -15,7 +15,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<!-- I am Haoran Ding, a CS Ph.D. that graduated from [IPADS](https://ipads.se.sjtu.edu.cn/), Shanghai Jiao Tong University (SJTU). I am jointly supervised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) at SJTU, [Prof. Zhong Shao](https://www.cs.yale.edu/homes/shao/) at Yale University, and [Prof. Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang) at SJTU. I am also very lucky to work closely with [Prof. Jinyang Li](https://www.news.cs.nyu.edu/~jinyang/) at New York University and [Prof. Ruzica Piskac](https://www.cs.yale.edu/homes/piskac/) at Yale University. I earned my bachelor degree in Computer Science from Nanjing University. -->
-
 I am Haoran Ding, a CS Ph.D. that graduated from Shanghai Jiao Tong University (SJTU). I earned my bachelor degree in Computer Science from Nanjing University.
 My research focuses on developing practical theories and tools that can enhance both software performance.
