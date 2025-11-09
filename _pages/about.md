@@ -16,4 +16,4 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am Haoran Ding, a CS Ph.D. that graduated from Shanghai Jiao Tong University (SJTU). I earned my bachelor degree in Computer Science from Nanjing University.
-My research focuses on developing practical theories and tools that can enhance both software performance.
+My research focuses on developing practical theories and tools that can enhance the performance of software, such as databases and cloud applications.
