@@ -39,14 +39,6 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a class="font-weight-bold" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
-
     <!-- Papers -->
     {% if page.selected_papers %}
       <h2>
@@ -54,30 +46,6 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-
-    <!-- Experience -->
-    <h2>
-      <a class="font-weight-bold" style="color: inherit">Experience</a>
-    </h2>
-    {% include experience.liquid %}
-
-    <!-- Service -->
-    <h2>
-      <a class="font-weight-bold" style="color: inherit">Service</a>
-    </h2>
-    {% include service.liquid %}
-
-    <!-- Teaching -->
-    <h2>
-      <a class="font-weight-bold" style="color: inherit">Teaching Assistant</a>
-    </h2>
-    {% include teaching.liquid %}
-
-    <!-- Awards -->
-    <h2>
-      <a class="font-weight-bold" style="color: inherit">Honors and Awards</a>
-    </h2>
-    {% include awards.liquid %}
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
