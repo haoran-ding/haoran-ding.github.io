@@ -17,5 +17,5 @@ social: false # includes social icons at the bottom of the page
 
 I am Haoran Ding, a postdoc in the group of [Prof. Martin Rinard](https://people.csail.mit.edu/rinard/) at MIT. I earned the Ph.D. degree from [IPADS](https://ipads.se.sjtu.edu.cn/), Shanghai Jiao Tong University (SJTU). I was jointly supervised by [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) at SJTU, [Prof. Zhong Shao](https://www.cs.yale.edu/homes/shao/) at Yale University, and [Prof. Zhaoguo Wang](https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang) at SJTU. I am also very lucky to work closely with [Prof. Jinyang Li](https://www.news.cs.nyu.edu/~jinyang/) at New York University and [Prof. Ruzica Piskac](https://www.cs.yale.edu/homes/piskac/) at Yale University. I earned my bachelor degree in Computer Science from Nanjing University.
 
-I do research about the intersection of formal methods and systems software, aiming to develop fundamental theories and practical tools that can enhance both system reliability and performance.
+I am interested in the intersection of formal methods and systems software, aiming to develop fundamental theories and practical tools that can enhance both system reliability and performance.
 Currently, my research focuses on scaling formal methods to large-scale systems via LLMs.
