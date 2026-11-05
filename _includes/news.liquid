@@ -4,7 +4,8 @@
     <div
       class="table-responsive"
       {% if include.limit and site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw; overflow-y: auto;"
+        style="overflow-y: auto;"
+        data-visible-rows="{{ site.announcements.visible | default: 10 }}"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
@@ -32,3 +33,19 @@
     <p>No news so far...</p>
   {% endif %}
 </div>
+<script>
+  (function () {
+    function fitNews() {
+      var box = document.querySelector('.news .table-responsive[data-visible-rows]');
+      if (!box) return;
+      var n = parseInt(box.getAttribute('data-visible-rows'), 10);
+      var rows = box.querySelectorAll('tr');
+      if (!n || rows.length <= n) return;
+      var top = rows[0].getBoundingClientRect().top;
+      var bottom = rows[n - 1].getBoundingClientRect().bottom;
+      box.style.maxHeight = Math.ceil(bottom - top) + 'px';
+    }
+    document.addEventListener('DOMContentLoaded', fitNews);
+    window.addEventListener('resize', fitNews);
+  })();
+</script>

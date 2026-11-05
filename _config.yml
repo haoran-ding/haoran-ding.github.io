@@ -153,6 +153,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  visible: 10 # number of news rows shown before scrolling
   limit: # include all the news in the `_news` folder
 
 latest_posts:
